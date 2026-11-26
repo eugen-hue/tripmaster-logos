@@ -1,4 +1,9 @@
 {
   "version": 1,
-  "logos": []
+  "logos": [
+    {
+      "name": "Automobil-Club Eschweiler e.V. im ADAC",
+      "file": "logos/ac-eschweiler.png"
+    }
+  ]
 }
